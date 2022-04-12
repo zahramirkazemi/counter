@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/zahramirkazemi/counter/static/css/main.abd64e84.css",
-    "main.js": "/zahramirkazemi/counter/static/js/main.feec503a.js",
-    "index.html": "/zahramirkazemi/counter/index.html",
-    "main.abd64e84.css.map": "/zahramirkazemi/counter/static/css/main.abd64e84.css.map",
-    "main.feec503a.js.map": "/zahramirkazemi/counter/static/js/main.feec503a.js.map"
+    "main.css": "/counter/static/css/main.abd64e84.css",
+    "main.js": "/counter/static/js/main.feec503a.js",
+    "index.html": "/counter/index.html",
+    "main.abd64e84.css.map": "/counter/static/css/main.abd64e84.css.map",
+    "main.feec503a.js.map": "/counter/static/js/main.feec503a.js.map"
   },
   "entrypoints": [
     "static/css/main.abd64e84.css",
